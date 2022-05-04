@@ -19,4 +19,6 @@ O projetodevfreela1 é um site com a criaçao de projetos entre o cliente e dese
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Funcionalidades do site
-Cadastrar,editar,excluir 
+- Cadastro
+- Ediçao
+- Exclusão
