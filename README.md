@@ -12,3 +12,7 @@ O projetodevfreela1 é um site com a criaçao de projetos entre o cliente e dese
 
 
 ![projeto 3](https://user-images.githubusercontent.com/89214405/166821090-bd265430-38b9-4ef6-9776-89c7d29bcfe9.png)
+
+
+
+![mock](https://user-images.githubusercontent.com/89214405/166821302-f08e868a-69a9-4485-8eed-1a443eb03bcd.png)
