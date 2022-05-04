@@ -26,3 +26,8 @@ O projetodevfreela1 é um site com a criaçao de projetos entre o cliente e dese
 - Cadastro de cliente e desenvolvedor
 - Ediçao do projeto
 - Exclusão do projeto
+
+# Linguagem utilizadas
+- Html
+- Css
+- Javascript
