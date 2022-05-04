@@ -15,3 +15,7 @@ O projetodevfreela1 é um site com a criaçao de projetos entre o cliente e dese
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 4.As Ferramentas que utilizamos para gerenciar as apis foi a mockapi onde criamos as apis para o gerenciamento do site.
 ![mock](https://user-images.githubusercontent.com/89214405/166821302-f08e868a-69a9-4485-8eed-1a443eb03bcd.png)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Funcionalidades do Products
